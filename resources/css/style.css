@@ -14,3 +14,20 @@ a {
   font-size: 18px;
   color: white;
 }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+#identify,#understand,#execute {
+  font-size: 23px;
+  font-weight: bold;
+}
+.process-text {
+  font-size: 14px;
+}
+#work {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../../resources/images/the-flatiron-building.png");
+}
